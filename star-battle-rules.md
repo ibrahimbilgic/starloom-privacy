@@ -1,6 +1,6 @@
 ---
-title: Star Battle puzzle rules and solving techniques
-description: How to play Star Battle: one star per row, column and region, and no two stars touching. Six solving techniques, with a 5x5 puzzle solved step by step.
+title: "Star Battle puzzle rules and solving techniques"
+description: "How to play Star Battle: one star per row, column and region, and no two stars touching. Six solving techniques, with a 5x5 puzzle solved step by step."
 ---
 <style>
 .sb{border-collapse:collapse;margin:.5rem 0 1rem}
