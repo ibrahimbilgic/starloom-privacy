@@ -1,12 +1,13 @@
 # Starloom Privacy Policy
 
-_Draft — last updated 15 September 2026. Contact address and publication URL to be filled in before release._
+_Last updated 26 October 2026._
 
 Starloom ("the app") is a single-player logic puzzle published by AppFellas. This policy explains what
 information the app handles and why.
 
 ## The short version
 - No account, no sign-in, no personal profile.
+- One optional purchase ("No ads"); payment is handled by the App Store or Google Play.
 - Your progress, settings and statistics stay on your device.
 - The app is free because it shows ads from Google AdMob. Ads may use your device's advertising identifier and
   related device data, subject to the choices you make in the consent message and in your device settings.
@@ -42,6 +43,18 @@ How Google uses this information: https://policies.google.com/technologies/partn
 - Watching one rewarded video turns banners and full-screen ads off for 30 minutes.
 
 The app's ad requests are configured for general-audience content (rated G).
+
+## Purchases (Apple, Google Play and RevenueCat)
+The app offers one optional one-time purchase, "No ads", which turns off banners and full-screen ads between
+levels for good. Rewarded videos stay optional. Payment is handled entirely by the App Store or Google Play; the
+app never sees your card or payment details.
+
+To confirm and restore the purchase, the app uses RevenueCat (RevenueCat, Inc., USA). RevenueCat receives a random
+app-specific user ID (not your name or email), the store's purchase receipt or token, the product bought, and
+basic device and app information (operating system, app version, country and currency). This is used only to
+check whether "No ads" is active on your account and to let you restore it on a new device
+(**Settings → Restore purchases**). RevenueCat may process this data in the United States.
+RevenueCat's privacy policy: https://www.revenuecat.com/privacy
 
 ## Analytics and crash reporting
 The current version of the app does not include a third-party analytics or crash-reporting service.

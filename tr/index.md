@@ -1,12 +1,13 @@
 # Starloom Gizlilik Politikası
 
-_Taslak — son güncelleme 15 Eylül 2026. İletişim adresi ve yayın URL'si yayından önce eklenecek._
+_Son güncelleme: 26 Ekim 2026._
 
 Starloom ("uygulama"), AppFellas tarafından yayımlanan tek oyunculu bir mantık bulmacasıdır. Bu metin uygulamanın
 hangi bilgileri neden işlediğini anlatır.
 
 ## Kısaca
 - Hesap, giriş ya da kişisel profil yok.
+- İsteğe bağlı tek bir satın alma var ("Reklamsız"); ödemeyi App Store ya da Google Play alır.
 - İlerlemen, ayarların ve istatistiklerin cihazında kalır.
 - Uygulama Google AdMob reklamları sayesinde ücretsizdir. Reklamlar, rıza mesajında ve cihaz ayarlarında yaptığın
   seçimlere bağlı olarak cihazının reklam kimliğini ve ilgili cihaz verilerini kullanabilir.
@@ -41,6 +42,18 @@ Google'ın bu bilgileri nasıl kullandığı: https://policies.google.com/techno
 - Bir ödüllü video izlemek banner ve tam ekran reklamları 30 dakika kapatır.
 
 Uygulamanın reklam istekleri genel kitleye uygun içerikle (G) sınırlıdır.
+
+## Satın alma (Apple, Google Play ve RevenueCat)
+Uygulamada isteğe bağlı tek bir tek seferlik satın alma var: "Reklamsız". Banner ve bölüm arası tam ekran
+reklamları kalıcı olarak kapatır; ödüllü videolar isteğe bağlı kalır. Ödemeyi tamamen App Store ya da Google Play
+alır; uygulama kart ya da ödeme bilgini hiçbir zaman görmez.
+
+Satın almayı doğrulamak ve geri yüklemek için uygulama RevenueCat'i (RevenueCat, Inc., ABD) kullanır. RevenueCat'e
+rastgele, uygulamaya özel bir kullanıcı kimliği (adın ya da e-postan değil), mağazanın satın alma makbuzu ya da
+belirteci, alınan ürün ve temel cihaz/uygulama bilgisi (işletim sistemi, uygulama sürümü, ülke ve para birimi)
+gider. Bu bilgi yalnız "Reklamsız"ın hesabında etkin olup olmadığını denetlemek ve yeni bir cihazda geri
+yükleyebilmen için kullanılır (**Ayarlar → Satın alımları geri yükle**). RevenueCat bu veriyi ABD'de işleyebilir.
+RevenueCat gizlilik politikası: https://www.revenuecat.com/privacy
 
 ## Analitik ve çökme raporları
 Uygulamanın bu sürümünde üçüncü taraf analitik ya da çökme raporlama servisi yoktur.
